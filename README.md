@@ -1,2 +1,2 @@
-# My Portfolio
-My Professional Website Portfolio
+Assignment One
+SCS 2205-Internet Technologies
